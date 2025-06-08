@@ -7,6 +7,4 @@ Este repositorio contiene ejemplos prácticos para ilustrar los cuatro pilares d
 - **Herencia**
 - **Polimorfismo**
 
-Cada carpeta contiene código que demuestra una técnica específica, reutilizando una misma base conceptual de personajes en combate.
-
-## Estructura
+Cada carpeta contiene código que demuestra una técnica específica.
